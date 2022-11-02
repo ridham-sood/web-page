@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  li{
+    @apply px-4;
+    @apply cursor-pointer;
+    @apply text-[#ccd6f6] hover:text-[#ff884b];
+    @apply font-mono;
+  }    
+  
+}
+
+
+
+.logo{
+    width: 180px;
+}
+

@@ -1,0 +1,67 @@
+const Data = [
+    {
+        id: 1,
+        category: "Professional",
+        icon: "MdWork",
+        place:"WIPRO",
+        year: "July 2021 - Present",
+        title: "Project Engineer",
+        desc: "Work over Java Technologies, Oracle DB & Supply chain",
+    },
+    {
+        id: 2,
+        category: "Professional",
+        icon: "MdWork",
+        place:"JIO",
+        year: "June 2019 - June 2019",
+        title: "Intern",
+        desc: "Collaborated with Core Architecture 4G/VOLTE team, Worked over Cryptographic Algorithms.",
+    },
+    {
+        id: 3,
+        category: "Project",
+        icon: "FaDev",
+        place:"Major Project",
+        year: "Feb 2020 - Apr 2020 ",
+        title: "Spam Detection",
+        desc: "Developed Spam Detection classifier using Machine Learning classifier Algorithm.",
+    },
+    {
+        id: 4,
+        category: "Project",
+        icon: "FaDev",
+        place:"Minor Project",
+        year: "Jan 2021 - May 2021",
+        title: "Symptoms Based Disease Prediction",
+        desc: "Developed Symptom Based Disease Prediction Web Application by synchronizing 4 Machine Learning Algorithms.",
+    },
+    {
+        id: 5,
+        category: "Education",
+        icon: "IoSchoolSharp",
+        place:"SRMIST",
+        year: "June 2017 - June 2021",
+        title: "Bachelor in Technology",
+        desc: "Major in Computer Science and technology",
+    },
+    {
+        id: 6,
+        category: "Education",
+        icon: "IoSchoolSharp",
+        place:"HSE",
+        year: "April 2016 - April 2017",
+        title: "Class XI",
+        desc: "",
+    },
+    {
+        id: 7,
+        category: "Education",
+        icon: "IoSchoolSharp",
+        place:"AISSE",
+        year: "April 2014 - May 2015",
+        title: "Class X",
+        desc: "",
+    }
+]
+
+export default Data;
