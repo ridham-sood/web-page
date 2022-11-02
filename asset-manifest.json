@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-page/static/css/main.18fda695.css",
+    "main.js": "/web-page/static/js/main.f9d6a580.js",
+    "static/media/Ridham_Picture.png": "/web-page/static/media/Ridham_Picture.66b53a38ad83285e3c82.png",
+    "static/media/linux.png": "/web-page/static/media/linux.3db32b955e9b61f35998.png",
+    "static/media/react.png": "/web-page/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/web-page/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/db.png": "/web-page/static/media/db.61dc97e3d2015519d895.png",
+    "static/media/github.png": "/web-page/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/springboot.png": "/web-page/static/media/springboot.32242f4a6cd4371968ed.png",
+    "static/media/Logo.png": "/web-page/static/media/Logo.763dde15e3b10b3904f8.png",
+    "static/media/html.png": "/web-page/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/java.png": "/web-page/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/css.png": "/web-page/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/web-page/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/web-page/index.html",
+    "main.18fda695.css.map": "/web-page/static/css/main.18fda695.css.map",
+    "main.f9d6a580.js.map": "/web-page/static/js/main.f9d6a580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18fda695.css",
+    "static/js/main.f9d6a580.js"
+  ]
+}
