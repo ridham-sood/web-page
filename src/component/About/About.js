@@ -10,8 +10,8 @@ function About() {
     }
 
     return (
-        <div onMouseEnter={handleState} onMouseLeave={handleState} name='about' className='w-full h-auto bg-[#0a192f] text-gray-300'>
-            <div className='flex flex-col justify-center items-center w-full h-full'>
+        <div onMouseEnter={handleState} onMouseLeave={handleState} name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+            <div className='-my-1 flex flex-col justify-center items-center w-full h-full'>
                 <div className='max-w-[1200px] w-full grid grid-cols-3 gap-8'>
                     <div className='pb-8 pl-4'>
                         <p className='text-6xl font-bold inline border-b-4 border-[#ff884b]'>

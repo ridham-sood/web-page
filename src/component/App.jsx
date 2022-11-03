@@ -11,7 +11,7 @@ import Contact from "./Contact/Contact";
 function App() {
     return (
 
-        <div>
+        <div >
             <Sidebar />
             <Home />
             <About />

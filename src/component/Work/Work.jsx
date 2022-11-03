@@ -5,7 +5,7 @@ import "./work.css";
 
 function Work() {
     return (
-        <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
+        <div name='work' className='w-full h-screen -my-1 text-gray-300 bg-[#0a192f]'>
             <div className='max-w-[1200px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className='pb-8 max-w-[1000px]'>
                     <p className=' text-6xl font-bold inline border-b-4 border-[#ff884b]'>

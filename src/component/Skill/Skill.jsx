@@ -13,7 +13,7 @@ import Linux from '../Assets/linux.png';
 
 const Skills = () => {
     return (
-        <div name='skill' className='w-full bg-[#0a192f] text-gray-300'>
+        <div name='skill' className='w-full h-screen -my-1 bg-[#0a192f] text-gray-300'>
             {/* Container */}
             <div className='max-w-[1200px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div>
